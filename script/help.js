@@ -1,4 +1,4 @@
-const OWNER_NAME = "Sinzu";
+const OWNER_NAME = "cleydo";
 const OWNER_FB = "https://www.facebook.com/profile.php?id=61594251452411";
 
 module.exports = {
